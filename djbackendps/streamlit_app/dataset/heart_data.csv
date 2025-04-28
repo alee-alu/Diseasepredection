@@ -1,0 +1,16 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,STSlope,CA,Thal
+63,Male,3,145,233,Yes,0,150,No,2.3,0,0,1
+37,Male,2,130,250,No,1,187,No,3.5,0,0,2
+41,Female,1,130,204,No,0,172,No,1.4,2,0,2
+56,Male,1,120,236,No,1,178,No,0.8,2,0,2
+57,Female,0,120,354,No,1,163,Yes,0.6,2,0,2
+57,Male,0,140,192,No,1,148,No,0.4,1,0,1
+56,Female,1,140,294,No,0,153,No,1.3,1,0,2
+44,Male,1,120,263,No,1,173,No,0,2,0,3
+52,Male,2,172,199,Yes,1,162,No,0.5,2,0,3
+57,Male,2,150,168,No,1,174,No,1.6,2,0,2
+54,Male,0,140,239,No,1,160,No,1.2,2,0,2
+48,Female,2,130,275,No,1,139,No,0.2,2,0,2
+49,Male,1,130,266,No,1,171,No,0.6,2,0,2
+64,Male,3,110,211,No,0,144,Yes,1.8,1,0,2
+58,Female,3,150,283,Yes,0,162,No,1,2,0,2
